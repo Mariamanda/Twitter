@@ -1,0 +1,120 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+
+
+.a1{
+    width: 0 auto;
+    height: 625px;
+    background-color: rgb(21, 32, 43);
+}
+
+main, .content{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.redes{
+    padding: 2px;
+    width: 26%;
+    margin-top: -40%;
+    margin-left: -14vh;
+}
+
+.redes ul svg{
+    display: block;
+}
+
+.redes1{
+    margin-top: -26px;
+    margin-left: 40px;
+    font-size: 20px;
+    width: 150%;
+    color: #fff;
+}
+
+.redes2{
+    margin-top: -26px;
+    margin-left: 40px;
+    font-size: 20px;
+    width: 160%;
+    color: #fff;
+}
+
+.redes3{
+    margin-top: -26px;
+    margin-left: 40px;
+    font-size: 20px;
+    width: 150%;
+    color: #fff;
+}
+
+svg{
+    margin-top: 36px;
+    color: #fff;
+}
+
+.b1{
+    margin-top: -43%;
+    margin-left: 57.6%;
+}
+
+.b1 p{
+    color: #fff;
+    margin-left: 5%;
+    font-size: 30px;
+    width: 60%;
+}
+
+.b2{
+    margin-left: 59.8%;
+    margin-top: 10vh;
+}
+
+.b2 h6{
+    color: #fff;
+}
+
+.b2 button{
+    background: #1ca0f1; 
+    padding: 10px; 
+    color: #fff; 
+    border: none; 
+    font-size: 16px;
+    width: 70%;
+    border-radius: 20px;
+}
+
+.b3 button{
+    border: 1px solid #1ca0f1; 
+    padding: 10px; 
+    color: #fff; 
+    background: transparent;
+    font-size: 16px;
+    width: 28.1%;
+    margin-top: 2vh;
+    margin-left: 59.8%;
+    border-radius: 20px;
+}
+
+.c1{
+    text-align: center;
+    color: #888a7b;
+}
+
+.c1 ul{
+    text-align: center;
+    padding-left: 30vh;
+    padding-top: 10vh;
+    margin-left: -10%;
+    word-wrap: break-word;
+}
+
+.c1 ul a{
+    color: #888a7b; 
+    padding: 5px 5px;
+}
+
+
